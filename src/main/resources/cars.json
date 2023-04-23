@@ -1,0 +1,121 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2018,
+    "color": "silver",
+    "price": 15000
+  },
+  {
+    "make": "Ford",
+    "model": "Fusion",
+    "year": 2016,
+    "color": "black",
+    "price": 12000
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "color": "red",
+    "price": 18000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Impala",
+    "year": 2017,
+    "color": "white",
+    "price": 16000
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2015,
+    "color": "blue",
+    "price": 10000
+  },
+  {
+    "make": "Tesla",
+    "model": "Model S",
+    "year": 2020,
+    "color": "silver",
+    "price": 60000
+  },
+  {
+    "make": "BMW",
+    "model": "X5",
+    "year": 2017,
+    "color": "black",
+    "price": 35000
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": 2018,
+    "color": "white",
+    "price": 28000
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2016,
+    "color": "blue",
+    "price": 24000
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2019,
+    "color": "green",
+    "price": 22000
+  },
+  {
+    "make": "Jeep",
+    "model": "Grand Cherokee",
+    "year": 2015,
+    "color": "black",
+    "price": 18000
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2018,
+    "color": "gray",
+    "price": 15000
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2017,
+    "color": "white",
+    "price": 13000
+  },
+  {
+    "make": "Kia",
+    "model": "Soul",
+    "year": 2016,
+    "color": "red",
+    "price": 10000
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2019,
+    "color": "blue",
+    "price": 25000
+  },
+  {
+    "make": "Lexus",
+    "model": "RX",
+    "year": 2020,
+    "color": "black",
+    "price": 45000
+  },
+  {
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": 2018,
+    "color": "white",
+    "price": 32000
+  }
+  ]
